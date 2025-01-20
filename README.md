@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![Kallubavimani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallubavimani&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallubavimani&layout=compact&theme=radical)
-
 ## 💻 Projects
 
 Here are some of the projects I've been working on:
@@ -34,6 +30,6 @@ Here are some of the projects I've been working on:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kallubavimani/)
+  - [LinkedIn]([https://www.linkedin.com/in/kallubavi-mani/].
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
