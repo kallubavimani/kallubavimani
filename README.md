@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Python, JavaScript, Java
+- Programming Languages: Python, JavaScript
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, MongoDB
 - Tools: Git, Docker, VS Code, Postman
