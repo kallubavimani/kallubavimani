@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @kallubavimani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Kallubavimani 👋
 
-<!---
-kallubavimani/kallubavimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about software development and love working on exciting projects. Here's a bit about me:
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning and exploring new technologies.
+- 💬 Ask me about Python, JavaScript, and web development.
+- 📫 How to reach me: [kallubavimani@example.com](mailto:kallubavimani@example.com)
+- ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, VS Code, Postman
+
+## 📈 GitHub Stats
+
+![Kallubavimani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallubavimani&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallubavimani&layout=compact&theme=radical)
+
+## 💻 Projects
+
+Here are some of the projects I've been working on:
+
+- [Project 1](https://github.com/kallubavimani/project1): Description of project 1.
+- [Project 2](https://github.com/kallubavimani/project2): Description of project 2.
+- [Project 3](https://github.com/kallubavimani/project3): Description of project 3.
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kallubavimani/)
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
