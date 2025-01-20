@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [kallubavimani@example.com](mmani53271@gmail.com)
+- 📫 How to reach me: [mmani53271@gmail.com](mmani53271@gmail.com)
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
 
 ## 🛠️ Technologies & Tools
